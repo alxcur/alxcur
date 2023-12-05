@@ -1,9 +1,10 @@
-- 👋 Hi, I’m @alxcur
-- 👀 I’m interested in web design, art direction, video art, and coding.
-- 🌱 I’m currently learning more about video creating and editing.
-- 💞️ I’m looking to collaborate on brand improving, website design, and photo or video shoots for your brand + art.
-- 📫 How to reach me: follow me on Instagram: 
-- 💻 View my website here: alexcurington.com
+- ☺︎ Hi, I’m Alex / @alxcur 
+- ◇ 12 years experienced in grapic design, art direction, branding.
+- ◎ 7+ years experienced in web design, front end develepment, UX + UI design.
+- ♡ Finds joy in video art, creative collaborations, performance art, photography, modeling, and kitty cats.
+- ✧ Currenty open to new oppurtunities, including contract, remote, and part-time work.
+- → Contact me at hello@alexcurington.com
+- ☐ View my website here: alexcurington.com
 
 <!---
 alxcur/alxcur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
